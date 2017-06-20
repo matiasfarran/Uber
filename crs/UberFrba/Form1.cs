@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using UberFrba.Abm_Rol;
 
 namespace UberFrba
 {
@@ -15,6 +16,12 @@ namespace UberFrba
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form1_Rol frm = new Form1_Rol();
+            frm.Show();
         }
     }
 }

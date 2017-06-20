@@ -1,6 +1,6 @@
 ﻿namespace UberFrba.Abm_Rol
 {
-    partial class Form1
+    partial class Form1_Rol
     {
         /// <summary>
         /// Required designer variable.

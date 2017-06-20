@@ -26,9 +26,9 @@ namespace UberFrba.Abm_Rol
         private Rol Convert(DataRow obj)
         {
             Rol rol = new Rol();
-            rol.id = Int32.Parse(obj["rol_id"].ToString());
+            rol.id = Int32.Parse(obj["rol_codigo"].ToString());
             rol.nombre = obj["rol_nombre"].ToString();
-            rol.habilitado = Boolean.Parse(obj["rol_habilitado"].ToString());
+            //rol.inactivo = Boolean.Parse(obj["rol_inactivo"].ToString());
             return rol;
         }
         private String ConvertString(DataRow obj)

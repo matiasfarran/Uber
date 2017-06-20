@@ -7,4 +7,5 @@ C:\Uber\crs\UberFrba\obj\Debug\UberFrba.Properties.Resources.resources
 C:\Uber\crs\UberFrba\obj\Debug\UberFrba.csproj.GenerateResource.Cache
 C:\Uber\crs\UberFrba\obj\Debug\UberFrba.exe
 C:\Uber\crs\UberFrba\obj\Debug\UberFrba.pdb
-C:\Uber\crs\UberFrba\obj\Debug\UberFrba.Abm_Rol.Form1.resources
+C:\Uber\crs\UberFrba\obj\Debug\UberFrba.Abm_Rol.Form1_Rol.resources
+C:\Uber\crs\UberFrba\obj\Debug\UberFrba.Form1.resources
